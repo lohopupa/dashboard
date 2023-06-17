@@ -1,4 +1,5 @@
 # Демо-приложение на `streamlit`
+### Приложение основано на [примере](https://github.com/otverskoj/streamlit-demo)
 
 ## Описание
 
